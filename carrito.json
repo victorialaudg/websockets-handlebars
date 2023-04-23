@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "Mundial",
+		"description": "Un café que combina las mejores notas en un blend mundial",
+		"price": 3500,
+		"thumbnail": "images/cafe_barista_mundial.png",
+		"code": "code126",
+		"stock": 30,
+		"status": true,
+		"category": "premium"
+	},
+	{
+		"id": 2,
+		"title": "Brasil Pedra",
+		"description": "Café tostado Brasil Pedra. Varietal catuai, caturra y mundo novo",
+		"price": 5300,
+		"thumbnail": "images/cafe_barista_brasilpedra.png",
+		"code": "code127",
+		"stock": 35,
+		"status": true,
+		"category": "standard"
+	},
+	{
+		"id": 3,
+		"title": "Costa Rica",
+		"description": "Originario del Valle Occidental, orgánico y de aires costarricenses",
+		"price": 7000,
+		"thumbnail": "images/cafe_barista_costarica.png",
+		"code": "code128",
+		"stock": 30,
+		"status": true,
+		"category": "standard"
+	}
+]

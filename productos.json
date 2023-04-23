@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"title": "Mundial",
+		"description": "Un café que combina las mejores notas en un blend mundial",
+		"price": 3500,
+		"thumbnail": "images/cafe_barista_mundial.png",
+		"code": "code126",
+		"stock": 30,
+		"status": true,
+		"category": "premium"
+	},
+	{
+		"id": 2,
+		"title": "Brasil Pedra",
+		"description": "Café tostado Brasil Pedra. Varietal catuai, caturra y mundo novo",
+		"price": 5300,
+		"thumbnail": "images/cafe_barista_brasilpedra.png",
+		"code": "code127",
+		"stock": 35,
+		"status": true,
+		"category": "standard"
+	},
+	{
+		"id": 3,
+		"title": "Costa Rica",
+		"description": "Originario del Valle Occidental, orgánico y de aires costarricenses",
+		"price": 7000,
+		"thumbnail": "images/cafe_barista_costarica.png",
+		"code": "code128",
+		"stock": 30,
+		"status": true,
+		"category": "standard"
+	},
+	{
+		"id": 4,
+		"title": "Colombia",
+		"description": "Auténtico café tostado colombiano",
+		"price": 10000,
+		"thumbnail": "images/cafe_barista_colombia.png",
+		"code": "code129",
+		"stock": 50,
+		"status": true,
+		"category": "premium"
+	},
+	{
+		"id": 5,
+		"title": "Catuai",
+		"description": "Café Brasil Catuai Rojo Tostado - Orgánico",
+		"price": 3876,
+		"thumbnail": "images/cafe_barista_catuai.png",
+		"code": "code130",
+		"stock": 50,
+		"status": true,
+		"category": "special"
+	},
+	{
+		"id": 6,
+		"title": "Brasil Bourbon",
+		"description": "Café brasilero oriundo de Minas Gerais",
+		"price": 3038,
+		"thumbnail": "images/cafe_barista_brasilbourbon.png",
+		"code": "code131",
+		"stock": 50,
+		"status": true,
+		"category": "special"
+	},
+	{
+		"id": 7,
+		"title": "House Blend",
+		"description": "Café especial de fincas Minas Gerais - Santander Colombia",
+		"price": 3158,
+		"thumbnail": "images/cafe_barista_houseblend.png",
+		"code": "code132",
+		"stock": 40,
+		"status": true,
+		"category": "premium"
+	},
+	{
+		"id": 8,
+		"title": "Perú",
+		"description": "Café tostado peruano",
+		"price": 2667,
+		"thumbnail": "images/cafe_barista_peru.png",
+		"code": "code133",
+		"stock": 45,
+		"status": true,
+		"category": "standard"
+	},
+	{
+		"id": 9,
+		"title": "Salvador",
+		"description": "Café suave de la finca Atzumpa",
+		"price": 3001,
+		"thumbnail": "images/cafe_barista_salvador.png",
+		"code": "code134",
+		"stock": 47,
+		"status": true,
+		"category": "standard"
+	},
+	{
+		"id": 10,
+		"title": "Ecuador",
+		"description": "Café orgánico suave ecuatoriano",
+		"price": 4500,
+		"thumbnail": "images/cafe_barista_ecuador.png",
+		"code": "code135",
+		"stock": 60,
+		"status": true,
+		"category": "special"
+	}
+]
