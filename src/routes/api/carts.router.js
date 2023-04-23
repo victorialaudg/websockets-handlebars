@@ -2,7 +2,7 @@ const { Router } = require('express')
 
 const router= Router()
 
-const CartManager = require('./../../CartManager.js')
+const CartManager = require('./../../managers/CartManager.js')
 const manager = new CartManager('./../../carrito.json')
 
 router.get('/', (req,res) => {

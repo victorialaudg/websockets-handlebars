@@ -1,5 +1,5 @@
 const fs = require('fs')
-const filename = './productos.json'
+const filename = './jsons/productos.json'
 let readContent = fs.readFileSync(filename, 'utf-8')
 
 class ProductManager {
@@ -104,7 +104,7 @@ class ProductManager {
 
 }
 
-const productManager = new ProductManager('./productos.json')
+const productManager = new ProductManager('./jsons/productos.json')
 
 
 module.exports = ProductManager

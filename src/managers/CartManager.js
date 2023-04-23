@@ -1,6 +1,6 @@
 const fs = require('fs')
-const filename = './carrito.json'
-const filenameCarts = './carts.json'
+const filename = './jsons/carrito.json'
+const filenameCarts = './jsons/carts.json'
 let readContent = fs.readFileSync(filename, 'utf-8')
 let readCarts = fs.readFileSync(filenameCarts, 'utf-8')
 
